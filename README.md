@@ -3,9 +3,6 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-<<<<<<< second_branch
-This is a test for once
-=======
 ## General info
 This project is shows how to create a GitHub Webhook to notify any organisation changes
 	
