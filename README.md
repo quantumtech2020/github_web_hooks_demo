@@ -28,5 +28,5 @@ The Api will be called api_gh_message
 
 The request content type will be a json file
 Dump the Json into a dictionary
->>>>>>> main
+
 
