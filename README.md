@@ -16,4 +16,13 @@ Project is created with:
 To run this project, install python and Flask on your local machine. 
 Create a folder on your C Drive ex. ForGitHub
 Create a file listening_to_github.py in this folder
-Create a Flask application 
+Create a Flask application
+The Flask Application will run in the local host
+127.0.0.1:5000
+
+The route will be 127.0.0.1:5000/github
+It will be a post coming from Github
+The Api will be called api_gh_message
+
+The request content type will be a json file
+Dump the Json into a dictionary
