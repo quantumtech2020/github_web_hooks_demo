@@ -20,6 +20,8 @@ Create a Flask application
 The Flask Application will run in the local host
 127.0.0.1:5000
 
+ngrok needs to be used to open localhost to external sites
+
 The route will be 127.0.0.1:5000/github
 It will be a post coming from Github
 The Api will be called api_gh_message
